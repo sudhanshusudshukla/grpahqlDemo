@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "haansolo",
+      "age": 31,
+      "companyId": "1001"
+    },
+    {
+      "id": "33",
+      "firstName": "Jerry",
+      "age": 40,
+      "companyId": "1003"
+    },
+    {
+      "id": "43",
+      "firstName": "Scott",
+      "age": 24,
+      "companyId": "1002"
+    },
+    {
+      "id": "52",
+      "firstName": "Melina",
+      "age": 35,
+      "companyId": "1004"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1001",
+      "name": "Apple",
+      "description": "Iphone manufacturer"
+    },
+    {
+      "id": "1002",
+      "name": "Google",
+      "description": "Google services"
+    },
+    {
+      "id": "1003",
+      "name": "Wipro",
+      "description": "Service based company"
+    },
+    {
+      "id": "1004",
+      "name": "IBM",
+      "description": "Hybrid cloud"
+    }
+  ]
+}
